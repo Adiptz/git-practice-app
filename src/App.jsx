@@ -10,7 +10,7 @@ function App() {
 
       <div className="card">
         <button onClick={() => setCount(count + 1)}>
-          Count: {count}
+          Count is now render!!!! {count}
         </button>
       </div>
 
