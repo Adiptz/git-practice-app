@@ -1,8 +1,8 @@
 import { useState } from 'react'
 
 function App() {
-  const [count, setCount] = useState(0)
-  
+  const [count, setCount] = useState(6)
+
   return (
     <div className="app">
       <h1>Git - Practice App</h1>
