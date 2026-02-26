@@ -3,9 +3,11 @@ import { useState } from 'react'
 function App() {
   const [count, setCount] = useState(0)
 
+  // new endpoint A 
+  
   return (
     <div className="app">
-      <h1>Git Practice App</h1>
+      <h1>Git - Practice App</h1>
       <p>Use this app to practice Git commands!</p>
 
       <div className="card">
