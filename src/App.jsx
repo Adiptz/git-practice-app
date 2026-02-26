@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Git - Practice App</h1>
+      <h1>Git Practice App</h1>
       <p>Use this app to practice Git commands!</p>
 
       <div className="card">
