@@ -2,8 +2,6 @@ import { useState } from 'react'
 
 function App() {
   const [count, setCount] = useState(0)
-
-  // new endpoint A 
   
   return (
     <div className="app">
